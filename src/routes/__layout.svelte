@@ -1,4 +1,4 @@
 <slot />
 
-<style windi:preflights:global windi:safelist:gobal>
+<style windi:preflights:global windi:safelist:global>
 </style>
