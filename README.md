@@ -10,3 +10,6 @@ uses the following technologies:
 - [SvelteKit](https://kit.svelte.dev)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Windi CSS](https://windicss.org/)
+- [Prettier](https://prettier.io/)
+- [ESLint](https://eslint.org/)
+- [Playwright](https://playwright.dev/)
