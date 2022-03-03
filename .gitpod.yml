@@ -3,8 +3,8 @@ ports:
     onOpen: open-preview
 
 tasks:
-  - init: npm install
-    command: npm run dev
+  - init: pnpm install
+    command: pnpm dev
 
 github:
   prebuilds:
